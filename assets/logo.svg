@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Hermes Muse Memory logo">
+  <rect width="96" height="96" rx="20" fill="#0b1020"/>
+  <path d="M48 14v68" stroke="#22d3ee" stroke-width="3" stroke-linecap="round" opacity=".9"/>
+  <path d="M48 14c-9 0-16 6-16 14 0 4 2 8 5 10-3 3-5 7-5 12 0 8 7 14 16 14z" fill="#164e63"/>
+  <path d="M48 14c9 0 16 6 16 14 0 4-2 8-5 10 3 3 5 7 5 12 0 8-7 14-16 14z" fill="#0e7490"/>
+  <path d="M30 48h12v-8" fill="none" stroke="#a5f3fc" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M66 48H54v8" fill="none" stroke="#a5f3fc" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 68l4 4 8-8" fill="none" stroke="#34d399" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
